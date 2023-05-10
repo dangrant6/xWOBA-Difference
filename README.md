@@ -1,1 +1,1 @@
-# xBA-Difference
+Finding the pitchers who seem the least affected by having runners on base (based on xwoba).
